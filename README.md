@@ -12,7 +12,7 @@ We used [Caltech256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/) a
 To see detailed experiment and results, please refer to our report: [P13_final_report.pdf](https://drive.google.com/file/d/1eID5uI_tdAJrw1yVxVKFWrGlpt_nDO7G/view?usp=sharing)
 
 # Conclusion
-* KNN, BPNN and SVM are not suitable to image classification problems. Although we also tried there three algorithms on less categories of images, their performance is still even much worse than the result of using all categories in CNN. But they did some improvement, compared with random guessing.
+* KNN, BPNN and SVM are not suitable to image classification problems. Although we also tried these three algorithms on less categories of images, their performance are still even much worse than the result of using all categories in CNN. But they did some improvement, compared with random guessing.
 
 * CNN is a very ideal algorithm to finish the image classification tasks if the dataset is valid and the parameters are properly set. To get a higher test accuracy, one should try to increase the amount of images in each category. More categories one has, more images in each category are needed. For example, if one has 10 categories, then 500 images for each category may be enough, but if one has 100 categories, then 500 images for each category will not perform as good as the previous one, and 2000 images for each category may be enough.
 
