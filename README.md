@@ -2,6 +2,7 @@
 
 [![N|Solid](http://www.vision.caltech.edu/Image_Datasets/Caltech256/intro_tight_crop.jpg)](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
 
+[Presentation Slides](https://docs.google.com/presentation/d/1Gqo_1wfaqPstNLpQPSDsFWu5RrrIWk0vB_t2JzLWw3U/edit?usp=sharing)
 # Introduction
 In the past, to do object recognition using computers, many classifiers have been developed, such as Support Vector Machines and K-Nearest Neighbors. But with the improvement of the computing power, recent years people start to use artificial neural networks to solve object recognition problems, such as Back Propagation Neural Network and Convolutional Neural Network.
 
